@@ -32,6 +32,10 @@
 				}
 			}
 		}
+
+		@include mobile {
+			
+		}
 	}
 
 	&--3-cols {
